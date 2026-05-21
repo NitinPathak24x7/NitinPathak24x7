@@ -42,21 +42,20 @@ Currently:
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
 ### 🎨 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=html,css,flutter,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,flutter,react,tailwind,androidstudio" />
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
 ### 🛠 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma" />
 
 </div>
-
 ---
 
 # 🚀 Experience
 
-## 🏢 A4AI — Early Stage Startup
+## 🏢 a4ai — Early Stage Startup
 
 Working on:
 - AI-powered products
